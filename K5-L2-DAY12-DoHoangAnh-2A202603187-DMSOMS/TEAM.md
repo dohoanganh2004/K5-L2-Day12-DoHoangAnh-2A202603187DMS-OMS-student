@@ -4,13 +4,13 @@ Mã bộ ảnh: **G04** · Hình thức: **cá nhân**
 
 | Họ tên | MSSV | Đã gán đủ 22 ảnh? | Review chéo với (peer diff) | Số dòng disagreement đã xử lý |
 |---|---|---|---|---|
-| Đỗ Hoàng Anh | 2A202603187 | có | Huyền (cùng mã G04) | 15/40 (các dòng còn lại cần xem ảnh cùng Huyền) |
+| Đỗ Hoàng Anh | 2A202603187 | có |Trần Thu Huyền | 15/40  |
 
-Cách review: Huyền review bài của mình (file `disagreement_log.csv`), mình review bài của Huyền và gửi lại góp ý.
+Cách review: Trần Thu Huyền review bài của Đỗ Hoàng Anh, Đỗ Hoàng Anh review bài của Trần Thu Huyền và gửi lại góp ý.
 
 Ca hai bạn vẫn không thống nhất và đã hỏi coach (ghi tên ảnh + đối tượng):
 
-- `light` của D01–D06 (mình ghi night/day, Huyền ghi unknown): guideline không nêu tiêu chí day/night cho ảnh NIR, sẽ hỏi coach.
+- `light` của D01–D06 (Đỗ Hoàng Anh ghi night/day, Trần Thu Huyền ghi unknown): guideline không nêu tiêu chí day/night cho ảnh NIR, sẽ hỏi coach.
 
 ## Cá nhân
 
